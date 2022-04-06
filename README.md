@@ -4,7 +4,6 @@
 3. osintframework.com
 4. censys.io
 5. shodan.io
-shodan.png
 
 7. zoomeye.org
 8. raidforums.com
