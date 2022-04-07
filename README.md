@@ -1,6 +1,8 @@
 # OSINT
 Figma — онлайн-сервис для разработки интерфейсов и прототипирования с возможностью организации совместной работы в режиме реального времени. Сервис доступен по подписке, предусмотрен бесплатный тарифный план для одного пользователя.
 
+профили разработчиков @figma в 
+![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/Twitter.png) 
 # Google dork 
 
 ![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%20google_dork.png)
