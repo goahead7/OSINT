@@ -1,6 +1,6 @@
 # OSINT
 # Google dork 
-![alt text](google_dork/google_dork.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%20google_dork.png)
 
 3. github.com/ElevenPaths/FOCA
 4. osintframework.com
