@@ -8,6 +8,7 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%20google_dork.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-01%20%D0%B2%2013.23.03.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-01%20%D0%B2%2013.25.47.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2017.05.44.png)
 
 # FOCA
 ![alt text](https://github.com/goahead7/OSINT/blob/main/foca/9WyNnoziEpU.jpeg)
