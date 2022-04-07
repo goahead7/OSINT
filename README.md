@@ -63,6 +63,10 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-06%20%D0%B2%2012.16.40.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-06%20%D0%B2%2012.46.57.png)
 
+![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2017.34.51.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2017.34.33.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2017.34.43.png)
+
  # spiderfoot
  
 ![alt text](https://github.com/goahead7/OSINT/blob/main/spiderfoot/-AapzL4Ccwo.jpeg)
