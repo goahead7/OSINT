@@ -103,7 +103,6 @@
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/Xh82mH-ZxIA.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/b6bemB8djSc.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/cC3SRIS4vIQ.jpeg)
-![alt text](https://github.com/goahead7/OSINT/blob/main/photon/0cVznZO0JJc.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/nfFGZZWWKmw.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/q3uoBlG-RXQ.jpeg)
 # Maltego
