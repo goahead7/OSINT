@@ -132,3 +132,12 @@ Figma — онлайн-сервис для разработки интерфей
 
 ![alt text](https://github.com/goahead7/OSINT/blob/main/maltego/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.23.32.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/maltego/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.26.11.png)
+
+# and 
+![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.47.29.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.48.07.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.49.23.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.57.38.png)
+![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-08%20%D0%B2%2014.53.37.png)
+
+
