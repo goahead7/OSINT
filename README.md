@@ -11,6 +11,7 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/google_dork/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2017.05.44.png)
 
 # FOCA
+Инструмент для поиска метаданных и скрытой информации в документах.
 ![alt text](https://github.com/goahead7/OSINT/blob/main/foca/9WyNnoziEpU.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/foca/T4s2CTl1DDs.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/foca/4loqkD_60LU.jpeg)
@@ -49,7 +50,7 @@ Figma — онлайн-сервис для разработки интерфей
 # raidforums.com 🚫
 
 # grep.app
-
+поиск по git репозиториям 
 ![alt text](https://github.com/goahead7/OSINT/blob/main/grep.app/gre_1.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/grep.app/grep.png)
 
@@ -61,7 +62,7 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/rengine/yq4dztKRAss.jpeg)
 
 # social-analyzer
-
+приложение для анализа и поиска профиля человека в +1000 соцсетях\сайтах
 ![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-03-23%20%D0%B2%2017.54.21.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-06%20%D0%B2%2012.16.40.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/social_analyser/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-06%20%D0%B2%2012.46.57.png)
@@ -80,9 +81,11 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/spiderfoot/ojYvyy-dHIo.jpeg)
 
 # Harvester
+Инструмент собирает электронные письма, имена, поддомены, IP-адреса и URL-адреса
 ![alt text](https://github.com/goahead7/OSINT/blob/main/harvest/D1ksNMq0tGc.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/harvest/cI4kmzks7Ik.jpeg)
 # gitleaks
+сканирование репозиториев на наличие ключей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/gitleaks/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-06%20%D0%B2%2013.52.20.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/gitleaks/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2018.08.29.png)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/gitleaks/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-04-07%20%D0%B2%2018.09.00.png)
@@ -96,6 +99,7 @@ Figma — онлайн-сервис для разработки интерфей
 ![alt text](https://github.com/goahead7/OSINT/blob/main/twint/mrP2pt7gpsc.jpeg)
 
 # sherlock 
+Поиск учетных записей, социальных сетей по имени пользователя в социальных сетях
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sherlock/8AOjCBBXCwo.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sherlock/BmHb1Qh66GE.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sherlock/FHnief8A2f4.jpeg)
@@ -113,6 +117,7 @@ Figma — онлайн-сервис для разработки интерфей
 # ahmia.fi
 ![alt text](https://github.com/goahead7/OSINT/blob/main/ahmia/ahmia.png)
 # Sudomy
+Sudomy — это инструмент подсчета поддоменов для сбора поддоменов и анализа доменов, выполняющий автоматическую разведку (разведку)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/nfFGZZWWKmw.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/KAHkrwJzWoM.jpeg)
 ![alt text](https://github.com/goahead7/OSINT/blob/main/sudomy/-vEgb5r6dZI.jpeg)
